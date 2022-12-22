@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Karin Lee
-- 👀 I’m interested in a full-time job as a full-stack webdeveloper
+- 👀 I’m interested in a full-time job as a full-stack webdeveloper available from june 2023
 - 🌱 I’m currently learning how to be a full-stack webdeveloper at supercode gmbh
 - 📫 How to reach me karinlee92@gmail.com
 - 🐱 Catmom
