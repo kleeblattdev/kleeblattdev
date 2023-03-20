@@ -1,6 +1,6 @@
 <h1>Hi there, I’m Karin</h1>
 
-🌱 I’m currently: striving to be a fullstack webdeveloper by doing a bootcamp at super(code)GmbH, Düsseldorf.
+🌱 I'm __currently__: striving to be a __fullstack webdeveloper__ by doing a bootcamp at super(code)GmbH, Düsseldorf.
 
 <h2> Languages & Tools </h2>
 
